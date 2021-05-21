@@ -1,0 +1,3 @@
+[submodule "StudentTemplate"]
+	path = StudentTemplate
+	url = ../StudentTemplate
